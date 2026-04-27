@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh api *)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(git -C d:/Workspace/Signal-Lab status)",
+      "Bash(git -C d:/Workspace/Signal-Lab diff HEAD -- SUBMISSION_CHECKLIST.md)"
+    ]
+  }
+}
